@@ -38,7 +38,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   height: 0.6rem;
 }
 input[type="range"]::-webkit-slider-thumb {
-  background-color:grey;
+  background-color:black;
   color:navy;
   cursor: hand;
   margin-top: -0.1rem;
